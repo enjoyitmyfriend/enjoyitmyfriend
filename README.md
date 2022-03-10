@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_desien/
-add your html file to above this website address, such as https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_design/demo.html
+add your html file to above this website address, such as https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_design/index.html
