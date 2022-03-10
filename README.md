@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_desien/
-add your html file to above this website address, such as https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_design/index.html
+index page:https://enjoyitmyfriend.github.io/enjoyitmyfriend/
+Add your html file to above this website address, such as https://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_design/index.html
