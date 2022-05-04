@@ -10,4 +10,4 @@ http://etonhouse-dg.top/webpage_design/Metta/index.html
 https://github.com/enjoyitmyfriend/Materials
 
 * I bought the domain server so that you could visit your webpage online by etonhouse-dg.top, but one day it will expire so at that time you should use the original address to access the webpage.
-<br>e.g. https://github.com/enjoyitmyfriend/enjoyitmyfriend/tree/main/webpage_design/Metta/index.html
+<br>e.g. http://enjoyitmyfriend.github.io/enjoyitmyfriend/webpage_design/Metta/index.html
